@@ -1,1 +1,2 @@
-https://susanaenriquez.github.io/CV/
+https://susanaenriquez.github.io/cv/
+https://susanaenriquez.github.io/proyecto1/
