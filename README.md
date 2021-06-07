@@ -1,7 +1,7 @@
 ## Codigo Facilito
 ```
-https://susanaenriquez.github.io/cv/
+https://susanaenriquez.github.io/CodigoFacilito/cv/
 ```
 ```
-https://susanaenriquez.github.io/proyecto1/
+https://susanaenriquez.github.io/CodigoFacilito/proyecto/
 ```
