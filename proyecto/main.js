@@ -31,7 +31,7 @@ links.forEach(function(link){
 
         // Retrasar el redireccionamiento
         setTimeout(function(){
-          location.href = '/';  
+          location.href = '/proyecto1';  
         },600); // una sola vez
 
         // setInterval -> constantemente
